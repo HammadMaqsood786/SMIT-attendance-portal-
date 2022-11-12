@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-for-enroll{
+    width: 98.9vw;
+    height: auto;
+}
+.header{
+    width: 98.9vw;
+    height: 5rem;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    box-shadow: 1px 1px 8px black;
+    position: sticky;
+}
+.heading-div{
+    width: 20rem;
+    height: 3rem;
+    margin: 0 auto;
+    position: sticky;
+    
+}
+.classes-container{
+    width: 80vw;
+    height: auto;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #dad8d8;
+}
+.row-divs{
+    width: 70vw;
+    height: 15rem;
+    /* border: 1px solid #000000; */
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.container{
+    width: 14rem;
+    height: 14rem;
+    /* border: 1px solid green; */
+    margin-left: 8px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 5px black;
+}
+.container:hover{
+    background-color: #dddddd;
+}
+.images{
+    width: 34vw;
+    height: 11rem;
+}

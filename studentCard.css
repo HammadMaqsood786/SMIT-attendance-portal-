@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main-card-div{
+    width: 50vw;
+    height: 30rem;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 6rem;
+}
+.image-div{
+    width: 8rem;
+    height: 8rem;
+    border: 1px solid red;
+}
